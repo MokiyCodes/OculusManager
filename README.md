@@ -11,7 +11,7 @@ The answer is likely Facebook/Meta tracking you.
 ## What is Oculus Manager
 Oculus Manager is a simple process to kill all (known) Oculus-related processes with the click of 2 buttons (start program, click `Kill Oculus`).
 
-## How do I use Oculus Manager?
+## How do I install Oculus Manager?
 Simply download the [Installer](), and run it.<br/><br/>
 Windows (>8) will likely prompt you with "This application was blocked for your safety" or something. If you read closer, it's because it can't confirm who published it.<br/>
 This is normal, since I did not "digitally sign" the installer, or the program, since I don't have a widely trusted certificate, and don't want to pay >$200/year for one.<br/>
