@@ -6,10 +6,11 @@ Oculus' (proprietary) Software, on windows, keeps drivers and helper processes r
 It additionally starts the driver on system startup, which makes no sense if you don't use your headset 24/7, and even then, starting the app automatically starts this driver anyway.<br/>
 This driver starts within seconds, so why is it running in the background 24/7?
 
-The answer is likely Facebook/Meta tracking you.
+The answer is likely Facebook/Meta tracking you using it.
 
 ## What is Oculus Manager
-Oculus Manager is a simple process to kill all (known) Oculus-related processes with the click of 2 buttons (start program, click `Kill Oculus`).
+Oculus Manager is a simple process to kill all (known) Oculus-related processes with the click of 2 buttons (start program, click `Kill Oculus`).<br/>
+This is to save resources, and keep your Linux ISOs private.
 
 ## How do I install Oculus Manager?
 Simply download the [Installer](), and run it.<br/><br/>
