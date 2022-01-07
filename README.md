@@ -22,3 +22,6 @@ Simply dismiss the notification by clicking `Read More`, then `Run Anyway`.
 ## Why do I need administrative rights? (installer & app)
 For the installer, it's to install it for all users.<br/>
 For the app, it's to have permissions to kill Oculus' services.
+
+### If you notice that Oculus starts itself again,...
+...or you see other oculus processes running after pressing `Kill Oculus`, please [create an issue](https://github.com/MokiyCodes/OculusManager/issues/new)
