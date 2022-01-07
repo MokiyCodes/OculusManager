@@ -17,7 +17,7 @@ Simply download the [Installer](), and run it.<br/><br/>
 Windows (>8) will likely prompt you with:<br/>
 ![Windows Protected your PC](https://cdn.cbt.wiki/Generic_VyIwCFSJ9WHJicLcxmHqrEaOG)<br/>
 This is normal, since I did not "digitally sign" the installer, or the program, since I don't have a widely trusted certificate, and don't want to pay >$200/year for one.<br/>
-Simply dismiss the notification by click `Read More`, then `Run Anyway`.
+Simply dismiss the notification by clicking `Read More`, then `Run Anyway`.
 
 ## Why do I need administrative rights? (installer & app)
 For the installer, it's to install it for all users.<br/>
