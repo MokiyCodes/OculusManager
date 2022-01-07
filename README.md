@@ -15,7 +15,7 @@ This is to save resources, and keep your Linux ISOs private.
 ## How do I install Oculus Manager?
 Simply download the [Installer](), and run it.<br/><br/>
 Windows (>8) will likely prompt you with:<br/>
-![Windows Protected your PC](https://cdn.cbt.wiki/Generic_VyIwCFSJ9WHJicLcxmHqrEaOG)
+![Windows Protected your PC](https://cdn.cbt.wiki/Generic_VyIwCFSJ9WHJicLcxmHqrEaOG)<br/>
 This is normal, since I did not "digitally sign" the installer, or the program, since I don't have a widely trusted certificate, and don't want to pay >$200/year for one.<br/>
 Simply ignore the warning, click `Read More`, then `Run Anyway`.
 
