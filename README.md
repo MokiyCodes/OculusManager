@@ -17,3 +17,7 @@ Simply download the [Installer](), and run it.<br/><br/>
 Windows (>8) will likely prompt you with "This application was blocked for your safety" or something. If you read closer, it's because it can't confirm who published it.<br/>
 This is normal, since I did not "digitally sign" the installer, or the program, since I don't have a widely trusted certificate, and don't want to pay >$200/year for one.<br/>
 Simply ignore the warning, click `Read More`, then `Run Anyway`.
+
+## Why do I need administrative rights? (installer & app)
+For the installer, it's to install it for all users.<br/>
+For the app, it's to have permissions to kill Oculus' services.
